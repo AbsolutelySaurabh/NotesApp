@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "310694611436",
+    "firebase_url": "https://notemaker-eca1d.firebaseio.com",
+    "project_id": "notemaker-eca1d",
+    "storage_bucket": "notemaker-eca1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310694611436:android:5797f141823cd1a8",
+        "android_client_info": {
+          "package_name": "com.example.absolutelysaurabh.notemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310694611436-5rba0fcrkln5sd6mbodj19b825d83rbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKPc9uYOz2t9DNN5Ufe0tQEDH2vjOz1jk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
