@@ -1,3 +1,3 @@
 # NotesApp
 This is a Note Maker app which can be used to take notes.
-It includes user authentication using Firebase.
+It inclue user authentication using Firebase.
